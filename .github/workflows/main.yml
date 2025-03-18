@@ -34,5 +34,5 @@ jobs:
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.BETA_AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY_ID: ${{ secrets.BETA_AWS_SECRET_ACCESS_KEY_ID }}
-          AWS_REGION: "ap-southeast-2"
+          AWS_REGION: "ap-southeast-1"
           
